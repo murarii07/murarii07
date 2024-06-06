@@ -8,14 +8,6 @@
 - Node.js best practices
 
 
-#### 💬 Ask me about...
-
-- Web development
-- Python scripting
-- Node.js
-
-
-
 ## 🛠 Skills
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 - ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
