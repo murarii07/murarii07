@@ -13,7 +13,7 @@ I'm a developer passionate about building innovative solutions with modern techn
 - Building tools that convert Excel data into dynamic forms
 
 ## 🌱 I'm currently learning...
-- Advanced AI/ML techniques
+- AI/ML algorithms,AI agents
 - New JavaScript frameworks
 - Optimizing Node.js applications
 - DevOps practices
@@ -31,7 +31,7 @@ I'm a developer passionate about building innovative solutions with modern techn
 - [**Text-to-Image**](https://github.com/murarii07/Text-to-Image) - Image generation from text descriptions using AI
 - [**Vocal Separation From Music**](https://github.com/murarii07/Vocal_Separation_From_Music) - ML-based tool to extract vocals from music tracks
 - [**Excel-to-Form**](https://github.com/murarii07/excel-to-form) - Converts Excel data into interactive web forms
-- [**Chrome Extension**](https://github.com/murarii07/chromeExtension) - Useful browser extension to enhance web browsing
+- [**Chrome Extension**](https://github.com/murarii07/chromeExtension) - Useful browser extension for checking authenticity of an news or article
 
 ## 📊 GitHub Stats
 <div align="center">
