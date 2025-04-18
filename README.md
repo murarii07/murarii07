@@ -8,7 +8,7 @@
 I'm a developer passionate about building innovative solutions with modern technologies. From web applications to AI-powered tools, I enjoy exploring diverse areas of software development.
 
 ## 🔭 Current Projects
-- Working on vocal separation from music using machine learning
+- Working on vocal separation from music using moises module
 - Developing useful Chrome extensions
 - Building tools that convert Excel data into dynamic forms
 
