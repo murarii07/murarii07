@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Abhay!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&width=435&lines=Sotware+Developer;AI%2FML+Enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&width=435&lines=Software+Developer;AI%2FML+Enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
